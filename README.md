@@ -1,5 +1,5 @@
 ## Hi! I'm Laavanya 👋
-> I'm a computer science and math student at the University of Toronto.
+> I'm a Computer Science Specialist w/ a Focus in Tech Leadership at the University of Toronto
 
 **Languages & Tools**
 
