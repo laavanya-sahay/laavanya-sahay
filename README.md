@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi! I'm Laavanya 👋
+> I'm a computer science and math student at the University of Toronto.
 
-<!--
-**laavanya-sahay/laavanya-sahay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages & Tools**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Java](https://img.shields.io/badge/Java-FAEDCB?style=for-the-badge&logo=openjdk&logoColor=111111)
+![JavaScript](https://img.shields.io/badge/JavaScript-C9E4DE?style=for-the-badge&logo=javascript&logoColor=111111)
+![Python](https://img.shields.io/badge/Python-C6DEF1?style=for-the-badge&logo=python&logoColor=111111)
+![React](https://img.shields.io/badge/React-F7D9C4?style=for-the-badge&logo=react&logoColor=111111)
+![Next.js](https://img.shields.io/badge/Next.js-DBCDF0?style=for-the-badge&logo=nextdotjs&logoColor=111111)
+![Node.js](https://img.shields.io/badge/Node.js-C6DEF1?style=for-the-badge&logo=nodedotjs&logoColor=111111)
+![HTML](https://img.shields.io/badge/HTML-C9E4DE?style=for-the-badge&logo=html5&logoColor=111111)
+![CSS](https://img.shields.io/badge/CSS-FAEDCB?style=for-the-badge&logo=css3&logoColor=111111)<br>
+![Git](https://img.shields.io/badge/Git-C9E4DE?style=for-the-badge&logo=git&logoColor=111111)
